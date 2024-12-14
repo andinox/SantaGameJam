@@ -1,0 +1,195 @@
+hellpicasso:
+  aka: "Pablo Brochard"
+  attack:
+    1:
+      name: "Guitar electric"
+      taux: 0.7
+      damage: 10
+    2:
+      name: "Joueur de LOL"
+      taux: 0.9
+      damage: 17
+    3:
+      name: "Regard de tueur"
+      damage: 20
+      taux: 0.5
+Ryad.12:
+  aka: "Ryad Guennoun"
+  attack:
+    1:
+      name: "Escape game Insoluble"
+      damage: 15
+      taux: 0.5
+    2:
+      name: "Smash PGM"
+      damage: 20
+      taux: 0.9
+    3:
+      name: "Formation MiNET"
+      damage: 25
+      taux: 0.4
+elwenn:
+  aka: "Gwenaelle Tailpied"
+  attack:
+    1:
+      name: "Crie d'agacement"
+      damage: 35
+      taux: 0.9
+    2:
+      name: "R6 DANS LA GEULE"
+      damage: 10
+      taux: 0.7
+    3:
+      name: "RAGE MODE"
+      damage: 30
+      taux: 0.3
+Ceriseuh:
+    aka: "Wassim Chomeur"
+    attack:
+        1:
+          name: "Skibidi attack"
+          damage: 15
+          taux: 0.8
+        2:
+          name: "Hackerman"
+          damage: 20
+          taux: 0.6
+        3:
+            name: "TU es le pokemon que tu pense etre"
+            damage: 25
+            taux: 0.4
+helo4375:
+    aka: "Heloise Havy"
+    attack:
+        1:
+          name: "roblox player"
+          damage: 10
+          taux: 0.8
+        2:
+          name: "escape game addict"
+          damage: 25
+          taux: 0.8
+        3:
+          name: "carry u"
+          damage: 20
+          taux: 0.2
+knockbackcookie:
+    aka: "Celian Butre"
+    attack:
+        1:
+          name: "Modo Discord"
+          damage: 9
+          taux: 0.99
+        2:
+          name: "quoicoubeh"
+          damage: 30
+          taux: 0.4
+        3:
+          name: "les cheuveux"
+          damage: 25
+          taux: 0.5
+sherpearce:
+    aka: "Rayane Boukrara"
+    attack:
+        1:
+          name: "1B"
+          damage: 28
+          taux: 0.8
+        2:
+          name: "48 assos"
+          damage: 40
+          taux: 0.2
+        3:
+          name: "bruit de la banda"
+          damage: 15
+          taux: 0.5
+emileguyot:
+    aka: "Emile Guyot"
+    attack:
+        1:
+          name: "la format rust"
+          damage: 15
+          taux: 0.4
+        2:
+          name: "fromsoft"
+          damage: 25
+          taux: 0.6
+        3:
+          name: "démarre  un debat"
+          damage: 35
+          taux: 0.8
+crizomb:
+    aka: "Clement Barthelemy"
+    attack:
+        1:
+          name: "godot"
+          damage: 10
+          taux: 0.9
+        2:
+          name: "godot2"
+          damage: 25
+          taux: 0.5
+        3:
+          name: "gotdot3"
+          damage: 30
+          taux: 0.2
+raptor_jesus42:
+    aka: "Marc Marco"
+    attack:
+        1:
+          name: "claquette"
+          damage: 20
+          taux: 0.8
+        2:
+          name: "boulanger'int"
+          damage: 25
+          taux: 0.6
+        3:
+          name: "rulers"
+          damage: 10
+          taux: 0.4
+bot131:
+    aka: "Simon Hervieux"
+    attack:
+        1:
+          name: "le bot"
+          damage: 20
+          taux: 0.8
+        2:
+          name: "prez anim'int"
+          damage: 8
+          taux: 0.9
+        3:
+          name: "aurel2"
+          damage: 25
+          taux: 0.8
+ydrolics:
+  aka: "Sacha Corporeau"
+  attack:
+      1:
+        name: "impro dans la geule"
+        damage: 8
+        taux: 0.8
+      2:
+        name: "alcoolique anonyme"
+        damage: 20
+        taux: 0.7
+      3:
+        name: "ptite biere"
+        damage: 25
+        taux: 0.7
+redstarab:
+  aka: "Audric Boisot"
+  attack:
+        1:
+            name: "bpm"
+            damage: 20
+            taux: 0.8
+        2:
+            name: "alternance"
+            damage: 25
+            taux: 0.6
+        3:
+            name: "rock band"
+            damage: 25
+            taux: 0.4
