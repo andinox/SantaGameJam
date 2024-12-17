@@ -206,7 +206,7 @@ class Game:
                 print(f"Vous attrapez {mob}")
                 d = [i.name for i in self.data.get_mobs()]
                 if mob not in d:
-                    self.data.add_mob(mob,0)
+                    self.data.add_mob(mob,lvl*100)
                 self.data.add_xp_to_mob(own_mob.name,100)
                 t = TerminalMenu(["Continuer"])
                 t.show()
