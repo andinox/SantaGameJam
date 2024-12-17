@@ -149,7 +149,7 @@ class Game:
 
 
     def combat(self,mob, lvl, own_mob):
-        player_lvl = own_mob.xp / 100
+        player_lvl = (own_mob.xp+100) / 100
         mob_lvl = lvl + 1
         player_pv = 100
         mob_pv = 100

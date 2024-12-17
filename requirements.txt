@@ -1,0 +1,7 @@
+greenlet==3.1.1
+prompt_toolkit==3.0.48
+PyYAML==6.0.2
+simple-term-menu==1.6.6
+SQLAlchemy==2.0.36
+typing_extensions==4.12.2
+wcwidth==0.2.13
